@@ -1,0 +1,70 @@
+body{
+background-color: black;
+}
+
+#intro1{
+color: white;
+text-align: center;
+font-family: Courier;
+
+}
+#Hello{
+color: blue;
+}
+
+#project1{
+color: white;
+position: relative;
+left: 100px;
+font-family: Courier;
+display:inline-block;
+margin-right:600px;
+}
+#project2{
+color: white;
+display:inline-block;
+font-family: Courier;
+margin-right:450px;
+
+
+}
+#project3{
+color: white;
+display:inline-block;
+font-family: Courier;
+}
+
+a{
+color: white;
+}
+#headline{
+color: white;
+text-decoration-line: underline;
+text-align: center;
+font-family: Courier;
+}
+.center {
+display: block;
+margin-left:auto;
+margin-right:auto;
+}
+p{
+color: white;
+font-family: Courier;
+text-align: center;
+font-size:20px;
+}
+#contact1 {
+color: white;
+font-family: Courier;
+position: relative;
+left: 100px;
+display:inline-block;
+margin-right:520px;
+}
+#contact2 {
+color: white;
+font-family: Courier;
+display:inline-block;
+
+}
